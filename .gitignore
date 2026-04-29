@@ -3,6 +3,7 @@ node_modules/
 
 # local env
 *.local
+CLAUDE.local.md
 
 # aider
 .aider*
